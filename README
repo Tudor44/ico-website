@@ -1,6 +1,6 @@
    install dependencies:
-     $ cd NovaServer && npm install
-
+     $ npm install
+     
    run the app:
      $ DEBUG=novaserver:* npm start
 
